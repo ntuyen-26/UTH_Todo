@@ -1,0 +1,4 @@
+{
+  "_note": "Tai file google-services.json that tu Firebase Console (Project settings > Your apps) roi dat vao thu muc app/. File that khong duoc day len GitHub.",
+  "project_info": { "project_id": "YOUR_PROJECT_ID" }
+}
